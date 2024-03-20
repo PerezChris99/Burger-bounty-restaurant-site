@@ -15,7 +15,7 @@
   color: #fff;
 }
 :root {
-  --main-color: #ffb411;
+  --main-color: hsl(33, 97%, 46%);
   --text-color: #1e1c2a;
   --bg-color: #fff;
 
