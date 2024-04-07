@@ -331,3 +331,6 @@ header {
     padding-top: 4rem;
   }
 }
+html {
+  scroll-behavior: smooth;
+}
